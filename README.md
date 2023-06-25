@@ -11,3 +11,34 @@ Playing music and making/modifying musical instruments has been a lifelong hobby
 A Genmitsu 3018 CNC has opened up new materials and geometries to me and had an initial price that was within my reach (<$200 USD).  The CAD and CAM learning curves proved considerably steeper than the SW tools for 3D printing, where large databases of free designs are readily available online and slicing SW is now relatively mature, general, and user-friendly.  And as I learned to use the 3018, its actual power, geometry, and accuracy proved to be quite constraining.  In particular, I was interested in being able to machine guitar necks from wood in less than a day of machining and without workpiece tiling.  As with lasers, there is a considerable price jump from the entry-level machines (~$200USD) to mid-level hobby machines (>$1000USD). 
 
 My solution has been incremental upgrades, first to improve accuracy, then power, then machining volume.  The resulting machine appears to fill a capability and price point gap in the current commercial offerings (~$250USD beyond the baseline 3018 cost for 10x spindle power and a 1 meter y axis), so I've decided to share my set of upgrades for others to use if they please.  
+
+## Assembly
+1. Start with assembled and tested Genmitsu 3018 CNC
+- a. Assuming Candle for pushing g code
+- b. Assuming Fusion 360 for CAM
+2. Build waste board
+- a. Screw 1"x2" lumber to sides of melamine cut to dimensions
+- b. Drill and countersink for mounting to aluminum plate
+- c. Drill and mount aluminum side rails
+- d. Bevel ends
+3. Install lengthened Y axis:
+- a. Remove existing Y axis v rail, linear bearing rails, and lead screw
+- b. Install longer Y axis v rail, linear bearing rails (on plywood ends), and lead screw
+- c. Mount extended waste board
+- d. Install extension cable for stepper motor
+4. Build new spindle carriage
+- a. Cut profiles from plywood with laser
+- b. Print assembly guides
+- c. Glue, stack, and bolt with guides in place
+- d. After drying, install antibacklash nut and linear bearings
+- e. Mount new carriage on lead screw and linear rails and couple to stepper motor
+5. Final bits
+- a. Install 608 rollers under bed
+- b. Print and install guide rollers for side/top
+- c. Install carriage and check full range of travel for all axes
+- d. Print and install meter mount
+- e. Update GRBL setting for Y axis scaling
+- f. Check bed leveling with meter
+- g. Attach pen and draw shapes CW and CCW to check for backlash
+6. First cut
+- a. Run circle diamond square test
