@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3285"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="PlywoodCNCcarriage_Upper.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3287"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="false"
+     inkscape:zoom="1.54"
+     inkscape:cx="199.67532"
+     inkscape:cy="192.85714"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3652"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       empspacing="10" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3282" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g17530"
+       transform="translate(0.32987013,-35.749676)">
+      <path
+         id="rect5884"
+         style="fill:none;stroke:#ff0000;stroke-width:0.265538"
+         d="m 2.3192383,36.079451 c -1.2814545,0 -2.31312057,1.028812 -2.31872153568,2.308903 v 45.572413 c 0,19.892873 16.01501723568,35.907373 35.90788623568,35.907373 h 17.918802 c 19.243549,0 34.857368,-14.98647 35.85621,-33.972608 V 38.39869 c 0,-1.284946 -1.034292,-2.319239 -2.319239,-2.319239 z" />
+      <path
+         id="path6470"
+         style="fill:none;stroke:#ff0000;stroke-width:0.268815"
+         d="m 44.973482,41.048657 a 35.365593,35.365593 0 0 0 -13.28291,2.59209 c 0.155594,0.935646 -0.274347,1.906 -1.151351,2.39882 l -5.545398,3.116089 c -0.791837,0.444962 -1.726833,0.376513 -2.429826,-0.09663 A 35.365593,35.365593 0 0 0 9.6076823,76.414457 35.365593,35.365593 0 0 0 44.973482,111.77974 a 35.365593,35.365593 0 0 0 35.3658,-35.365283 35.365593,35.365593 0 0 0 -35.3658,-35.3658 z" />
+    </g>
+  </g>
+</svg>
