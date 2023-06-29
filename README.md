@@ -1,6 +1,8 @@
 # CNC-music-factory
 This is my set of upgrades to a baseline 3018 CNC to support machining of wood for guitar necks, organ pipes, and other noisy bits.
 
+The resulting machine has nearly 5x the cutting volume (300mm x 775mm x 50mm instead of the stock volume of 300mm x 180mm x 45mm) and 10 times the power (The spindle has been upgraded from the stock 75W one to a 750W Bosch Colt router).
+
 ![Overview image](https://github.com/thecowgoesmoo/CNC-music-factory/blob/main/Images/CNCMF_DiagFull.jpg)
 
 ## Overview
